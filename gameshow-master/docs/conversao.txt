@@ -1,0 +1,15 @@
+Primeiro nome: Maria
+
+Conversão para binário: 
+Letra	  Decimal     Binário
+M --> 		77		 01001101
+a --> 		97		 01100001 
+r --> 		114		 01110010
+i --> 		105		 01101001
+a --> 		97		 01100001
+
+Maria
+01001101 01100001 01110010 01101001 01100001
+
+Testar
+https://www.4devs.com.br/tradutor_codigo_binario
